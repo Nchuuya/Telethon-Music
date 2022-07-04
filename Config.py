@@ -11,4 +11,4 @@ class Config(object):
     CHANNEL = os.environ.get("CHANNEL", "boa_updates")
     START_IMG = os.environ.get("START_IMG", "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png")
     CMD_IMG = os.environ.get("CMD_IMG", "https://telegra.ph/file/66518ed54301654f0b126.png")
-    ASSISTANT_ID = int(os.environ.get("ASSISTANT_ID", "6435225"))
+    ASSISTANT_ID = int(os.environ.get("ASSISTANT_ID", "2066416579"))
